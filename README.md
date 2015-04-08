@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repsitory for The Data Scientist's Toolbox
+Repository for The Data Scientist's Toolbox
